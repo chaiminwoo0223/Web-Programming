@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;BookController.java&apos; to &apos;book202114058/src/main/java/net.skhu.controller&apos;&#x0D;&#x0A;- Original project: &apos;book202114058&apos;&#x0D;&#x0A;- Destination element: &apos;book202114058/src/main/java/net.skhu.controller&apos;&#x0D;&#x0A;- Original element: &apos;net.skhu.BookController.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;net.skhu.controller" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;net.skhu{BookController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1683635552594" units="1" version="1.0"/>
+</session>
